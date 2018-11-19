@@ -1752,7 +1752,7 @@ pre .javascript .function {
   border-radius: 50%;
   -webkit-border-radius: 50%;
   -moz-border-radius: 50%;
-  transiton: 1.4s all;
+  transition: 1.4s all;
 }
 .site-author-image:hover {
   -webkit-transform: rotate(360deg);
@@ -1840,7 +1840,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ff24ff;
+  background: #8542ff;
 }
 .links-of-blogroll {
   font-size: 13px;
